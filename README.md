@@ -6,6 +6,7 @@ These projects include small utilities, games, automation scripts, and GUI-based
 The goal of this repository is to practice programming concepts, explore Python libraries, and build small functional applications.
 
 📂 Projects Included
+
 🧮 Calculator
 
 A simple GUI calculator built using Python's Tkinter library.
